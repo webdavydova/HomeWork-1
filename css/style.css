@@ -1,0 +1,62 @@
+/***********************index.html*/
+.glavnaja {
+	background: #CCCCCC;
+	color: #2657F2;
+}
+
+.glavnaja a {
+	color: #980011;
+}
+
+.glavnaja div {
+	margin: 100px auto 0;
+	width: 1500px;
+}
+
+/**********************form-text.html*/
+.form {
+	background: #EEEEEE;
+	margin: 100px 200px;
+	color: #565656;
+}
+
+nav {
+	text-align: center;
+}
+
+nav :first-child {
+	color: #A30011;
+}
+
+.img1 {
+float: left;
+margin: 0 40px ;
+border: 10px solid #565656;
+}
+
+.img2 {
+float: right;
+margin: 0 40px ;
+border: 10px solid #565656;
+}
+
+/**********************spiski.html*/
+.spiski {
+	background: url(../img/4.jpg) repeat;
+	color: #F2F2E6;
+	margin: 100px 300px;
+}
+.spiski a {
+	color:#84D1ED;
+	text-align: right;
+}
+
+/**********************Obshchie stili*/
+
+.aglav {
+	display: block;
+	text-align: right;
+}
+.otstup {
+	margin: 60px 0 15px 0;
+}
